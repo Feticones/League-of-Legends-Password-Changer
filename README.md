@@ -16,6 +16,10 @@ Username:Password | NewInfo = Username:NewPassword
 ### What proxy provider should I use?
 You can use something like [intenseproxy.com ](https://intenseproxy.com/) or [packetstream.io ](https://packetstream.io/), because iproyal and some other providers  doesnt work.
 
+### What is the difference between this two configs?
+The config PwChangerOnePassword.opk changes the password from every Account to one password and the Config PwChangerRandomPassword.opk changes every password into a random one.
+
+
 ## Contacts
 
 ```
