@@ -13,5 +13,11 @@ Username:Password | NewInfo = Username:NewPassword
 
 ## FAQ
 
-### What proxyy provider should I use?
+### What proxy provider should I use?
 You can use something like [intenseproxy.com ](https://intenseproxy.com/) or [packetstream.io ](https://packetstream.io/), because iproyal and some other providers  doesnt work.
+
+## Contacts
+
+```
+Discord: fetico
+```
