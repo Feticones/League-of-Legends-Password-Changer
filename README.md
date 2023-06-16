@@ -1,5 +1,5 @@
 # League of Legends Password Changer
- This are openbullet 2 configs to bulk change password on Riot Accounts
+ This are openbullet 2 configs to bulk change password on Riot Accounts. I will upload more useful configs in the future!
 
 ## How to use
 
